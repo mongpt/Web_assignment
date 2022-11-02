@@ -1,0 +1,77 @@
+.container {
+  padding-top: 3rem;
+}
+
+.nav-item {
+  margin: 0 50px 0 50px;
+}
+
+.nav-link {
+  color: #000;
+  font-family: Ubuntu;
+  font-size: 1.5rem;
+}
+
+.navbar-brand {
+  margin-left: 1rem;
+}
+
+.company-header {
+  text-align: center;
+  font-weight: bold;
+  margin-top: 10rem;
+}
+
+.slide {
+  margin: 40px 40px;
+}
+
+.main-txt {
+  margin: 0 200px 0 200px;
+  text-align: center;
+}
+
+.nav-link:hover {
+  font-style: italic;
+}
+
+.product-header {
+  margin: 50px auto auto 50px;
+}
+
+.product-txt {
+  margin: 0 40px 0 40px;
+}
+
+.product-card {
+  margin: 100px 40px 100px 40px;
+}
+
+.card-img-top:hover {}
+
+.card {
+  box-shadow: 5px 5px 5px rgb(103, 189, 253);
+}
+
+.card:hover {
+  top: -50px;
+}
+
+.top-product-name {
+  padding: 10px 0 0 30px;
+}
+
+.map {
+  max-width: 100%;
+  max-height: 100%;
+  width: auto;
+  height: auto;
+}
+
+.contact-row {
+  margin: 150px 40px 100px 40px;
+}
+
+.contact-header {
+  margin-bottom: 50px;
+}
